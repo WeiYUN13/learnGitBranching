@@ -1,3 +1,6 @@
+# issue on 'hide goal'
+**use new link https://hong4rc.github.io/test/index.html?locale=zh_CN**
+
 # LearnGitBranching
 
 [![Build Status](https://travis-ci.org/pcottle/learnGitBranching.svg?branch=master)](https://travis-ci.org/pcottle/learnGitBranching)
